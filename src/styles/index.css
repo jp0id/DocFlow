@@ -1,6 +1,6 @@
 @import 'tailwindcss';
 @import 'katex/dist/katex.min.css';
-@import './partials/animations.css';
+/* @import './partials/animations.css';
 @import './partials/blocks.css';
 @import './partials/code.css';
 @import './partials/collab.css';
@@ -8,7 +8,7 @@
 @import './partials/placeholder.css';
 @import './partials/table.css';
 @import './partials/typography.css';
-@import './partials/draggable.css';
+@import './partials/draggable.css'; */
 
 @custom-variant dark (&:is(.dark *));
 .bg-\[--color-bg\] {
@@ -398,7 +398,6 @@
     @apply bg-background text-foreground;
   }
 }
-
 .collaboration-carets__label {
   padding: 2px 6px;
   border-radius: 4px;

@@ -1,0 +1,9 @@
+@import './partials/code.css';
+@import './partials/table.css';
+@import './partials/lists.css';
+@import './partials/blocks.css';
+@import './partials/placeholder.css';
+@import './partials/draggable.css';
+@import './partials/animations.css';
+@import './partials/typography.css';
+@import 'katex/dist/katex.min.css';
